@@ -5,4 +5,5 @@ let accountEmail = "musuah@gmail.com"
 var accountPassword = 8703409;
 accountCity = "Jaiput"
 
+// accountId = 2
 console.log("accountId")
