@@ -42,13 +42,13 @@ let amithab = "actor"
 
 let salman = amithab
 
-salman = "superstar of India"
+salman = "superstar"
 
 console.log(amithab);
 console.log(salman);
 
 let userOne = {
-    email: "salmanboi@google.com"
+    email: "salmanboi@google.com",
     upi: "737@ybl"
 }
 
@@ -58,3 +58,4 @@ userTwo.email = "histesh@yahoo.com"
 
 console.log(userOne.email);
 console.log(userTwo.email);
+//both the email has been changed
